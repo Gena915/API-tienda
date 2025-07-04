@@ -12,11 +12,11 @@ Proyecto de práctica personal: una API REST creada con "Node.js" y "Express" pa
     Estructura del proyecto
   
 /data
-  -infoProductos.json -> Lista de productos
-  -ventas.json -> Total de ventas acumuladas
+  -infoProductos.json # Lista de productos
+  -ventas.json # Total de ventas acumuladas
 /routes
-  -productos.js -> Todas las rutas de la API
-index.js -> Punto de entrada de la app
+  -productos.js # Todas las rutas de la API
+index.js " Punto de entrada de la app
 
 
   Próximos pasos
